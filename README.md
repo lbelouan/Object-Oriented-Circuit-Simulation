@@ -1,5 +1,3 @@
-# POO_sortie_circuit_elec
-
 # Simulation de Circuits Électroniques – BE Programmation Orientée Objet
 
 ## Objectif
